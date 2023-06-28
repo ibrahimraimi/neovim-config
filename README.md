@@ -1,5 +1,7 @@
 # NeoVim Config
 
+![Banner](https://i.ibb.co/bdK5gBm/Screenshot-2023-06-29-004933.png)
+
 My NeoVim configuration with NvChad
 
 ## Installation
