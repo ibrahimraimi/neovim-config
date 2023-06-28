@@ -1,6 +1,6 @@
 # NeoVim Config
 
-My NeoVim configuration NvChad
+My NeoVim configuration with NvChad
 
 ## Installation
 
