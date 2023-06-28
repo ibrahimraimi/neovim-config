@@ -1,10 +1,14 @@
-# Project Name
+# NeoVim Config
 
-Project Description.
+My NeoVim configuration NvChad
 
-# Live version
+## Installation
 
-This project is yet to be deployed.
+> This installation is for windows
+
+```sh
+https://github.com/ibrahimraimi/neovim-config $HOME\AppData\Local\nvim --depth
+```
 
 ## Feedback and Bugs
 
